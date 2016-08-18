@@ -1,0 +1,17 @@
+{
+    "name": "dhurjati-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Purushoth Kumar Guttula"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/dhurjati-bower.git"
+    },
+    "description": "Dhurjati font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
